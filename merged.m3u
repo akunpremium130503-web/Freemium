@@ -4867,78 +4867,63 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:32:26 PM 01-08-2026
+#last update time: 1:47:24 AM 02-08-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20Fire.jpg" group-title="LIVE", Phoenix vs Fire - The Hundred
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Round%203.jpg" group-title="LIVE", Round 3 - AIG Women's Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785684747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce6cd391d24ff75583f08bf5c0551a06
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1785700046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c66f74847bc3de943d4a16c32f5786b8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%201.jpg" group-title="LIVE", Tour de France Femmes - Stage 1 - UCI Women's World Tour
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Vegas%20Aces%20vs%20Chicago%20Sky.jpg" group-title="LIVE", Las Vegas Aces vs Chicago Sky - WNBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1785684749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-28a04eb3393dacad61593247472d99b0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510821/720p/chunks.m3u8?is_vip=false&token=1785700048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df9458ba5c9af9a0423ac2e5f69338a0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tranmere%20vs%20Rochdale.jpg" group-title="LIVE", Tranmere vs Rochdale - England EFL Cup
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spirit%20vs%20Brave.jpg" group-title="LIVE", Spirit vs Brave - The Hundred
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147275/chunks.m3u8?is_vip=false&token=1785684752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f928c060d88adc6f242a07a0606ae33
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785700050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6511d87f24f795ea2aee7d73d38a1f4c
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falkirk%20vs%20St%20Mirren.jpg" group-title="LIVE", Falkirk vs St Mirren - Scotland Premiership [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MEDIC%20vs%20RODRIGUEZ.jpg" group-title="LIVE", MEDIC vs RODRIGUEZ - UFC FIGHT NIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147276/chunks.m3u8?is_vip=false&token=1785684754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-426e9fa7f4fb4f0d1358be7251d61966
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53767/720p/chunks.m3u8?is_vip=false&token=1785700052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-db6e45fd1de54e665d8fa3cb329872bf
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Falkirk%20vs%20St%20Mirren.jpg" group-title="LIVE", Falkirk vs St Mirren - Scotland Premiership [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/HNK%20Gorica%20vs%20NK%20Osijek.jpg" group-title="LIVE", HNK Gorica vs NK Osijek - Croatia HNL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147276-hd/chunks.m3u8?is_vip=false&token=1785684755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c12c06bb7819e93a8626b72e325eb502
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b5851501472a6-fhd/chunks.m3u8?is_vip=false&token=1785700056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-93e2cbc2679fc0e2383d6fd8a20d2e28
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Semifinals.jpg" group-title="LIVE", Semifinals - Western Amateur Championship
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Liberty%20vs%20Phoenix%20Mercury.jpg" group-title="LIVE", New York Liberty vs Phoenix Mercury - WNBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/136433/720p/chunks.m3u8?is_vip=false&token=1785684757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-097dff3eb669054bd0bffa2a8fbf6977
+https://livecdn-tc-iptv.rumsport10.live/live_abr/495109/720p/chunks.m3u8?is_vip=false&token=1785700058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b2d54450bb7ecd1172e64a793f172bb
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2017.jpg" group-title="LIVE", Secto Rally Finland: Stage 17 - WRC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Toronto%20Blue%20Jays.jpg" group-title="LIVE", St. Louis Cardinals vs Toronto Blue Jays - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785684758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ead308e9c14d3bd249efb0dbd97eeb6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1785700059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a0a2de586dc1f2644c76e317776ad73
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WSG%20Swarovski%20Tirol%20vs%20SK%20Sturm%20Graz.jpg" group-title="LIVE", WSG Swarovski Tirol vs SK Sturm Graz - Austria Bundesliga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20vs%20SCU%20Torreense.jpg" group-title="LIVE", FC Porto vs SCU Torreense - Portugal Super Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf630392eaef43e132a/chunks.m3u8?is_vip=false&token=1785684763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e1130a4e40b96895c9694a2d0b276e5b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf630392eaef43e1333/chunks.m3u8?is_vip=false&token=1785700061-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d0489e8dca92685c3b4d0ffb85f817f0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PRELIMS.jpg" group-title="LIVE", PRELIMS - UFC FIGHT NIGHT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20New%20York%20Mets.jpg" group-title="Baseball", Miami Marlins vs New York Mets - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1785684766-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b3a5f5e258b88601da45e8bc777d4e54
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1785700063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8215eaf72bf65827bd406fc17aea81e
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lions%20vs%20Bulls.jpg" group-title="LIVE", Lions vs Bulls - Currie Cup
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Tampa%20Bay%20Rays.jpg" group-title="Baseball", Chicago White Sox vs Tampa Bay Rays - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1785684768-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2211722620d4bb6d1e68117819063c81
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1785700064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d1df35bb88d467604a9181064f3c7e6
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FK%20Gomel%20vs%20FC%20Vitebsk.jpg" group-title="LIVE", FK Gomel vs FC Vitebsk - Belarus Premier League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20Seattle%20Mariners.jpg" group-title="Baseball", Minnesota Twins vs Seattle Mariners - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b585150147296/chunks.m3u8?is_vip=false&token=1785684769-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3e3132a608e92fb68ef81b1a5da973ce
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wieczysta%20Krakow%20vs%20Lech%20Poznan.jpg" group-title="LIVE", Wieczysta Krakow vs Lech Poznan - Poland Ekstraklasa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf6bd8b5851501472e7/chunks.m3u8?is_vip=false&token=1785684771-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-10b14cf194fa88e224e18894e30f0665
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2018.jpg" group-title="Auto Racing", Secto Rally Finland: Stage 18 - WRC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785684774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4b9f2fed9703deb68186ad9bd837caa2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Round%203.jpg" group-title="Golf", Round 3 - AIG Women's Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1785684773-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9c9331b47b3dd5e83a02f00516d53dbc
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1785700064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fae621ed78c6acb3cb733bc51cbea2fa
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-01T15:39:19Z (ID: 9a6750da-7398-43cc-a501-6bcb6cc1acca)
+# Auto-updated at 2026-08-01T20:02:45Z (ID: 96f8a40a-e2e1-4f8a-9068-0c2ad787ca79)

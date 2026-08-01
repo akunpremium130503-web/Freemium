@@ -1,0 +1,55 @@
+name: Merge IPTV Playlists from URLs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # Jalankan tiap 1 jam
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download and merge playlists
+        run: |
+          echo "#EXTM3U" > merged.m3u
+
+          for url in \
+            "https://dik.si/visyenples" \
+            "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"
+          do
+            echo "🔹 Merging $url ..."
+            if curl -sf "$url" | tail -n +2 >> merged.m3u; then
+              echo "# ✅ Successfully merged $url" >> merged.m3u
+            else
+              echo "# ❌ Failed to load $url" >> merged.m3u
+            fi
+          done
+
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          UUID=$(cat /proc/sys/kernel/random/uuid)
+          echo "" >> merged.m3u
+          echo "# Auto-updated at $TIMESTAMP (ID: $UUID)" >> merged.m3u
+          echo "✅ Merge complete at $TIMESTAMP"
+
+      - name: Commit and push merged file safely
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git fetch origin main
+          git checkout main
+          git pull origin main --rebase || true
+
+          git add merged.m3u
+          git commit -m "Auto merge playlists from URL [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]" || echo "No changes to commit"
+
+          git push origin main || (git pull --rebase origin main && git push origin main)

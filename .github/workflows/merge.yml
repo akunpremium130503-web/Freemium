@@ -23,7 +23,7 @@ jobs:
           echo "#EXTM3U" > merged.m3u
 
           for url in \
-            "https://dik.si/visyenples" \
+            "https://gitlab.com/ridjals739/ppv-playlist/-/raw/main/myplaylist.m3u" \
             "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"
           do
             echo "🔹 Merging $url ..."

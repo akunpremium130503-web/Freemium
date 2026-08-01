@@ -11,33 +11,79 @@ permissions:
 jobs:
   merge:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Download and merge playlists
+        id: merge
         run: |
+          LOG_FILE="merge_log.txt"
+          TEMP_LOG="temp_log.txt"
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          SUCCESS_COUNT=0
+          FAIL_COUNT=0
+
+          echo "=== Merge started at $TIMESTAMP UTC ===" >> $LOG_FILE
           echo "#EXTM3U" > merged.m3u
+
           for url in \
             "https://gitlab.com/ridjals739/ppv-playlist/-/raw/main/myplaylist.m3u" \
             "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"
           do
-            echo "Merging $url"
-            curl -sfL "$url" | tail -n +2 >> merged.m3u || echo "# Failed to load $url" >> merged.m3u
+            echo "- Merging $url" >> $LOG_FILE
+            if curl -sfL "$url" | tail -n +2 >> merged.m3u; then
+              echo "  ✅ Success: $url" >> $LOG_FILE
+              SUCCESS_COUNT=$((SUCCESS_COUNT+1))
+            else
+              echo "  ❌ Failed to load: $url" >> $LOG_FILE
+              echo "# Failed to load $url" >> merged.m3u
+              FAIL_COUNT=$((FAIL_COUNT+1))
+            fi
           done
 
-          echo "# Merge updated on $(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> merged.m3u
+          # Tambahkan timestamp agar selalu terupdate
+          echo "# Auto-updated at $TIMESTAMP" >> merged.m3u
+          echo "=== Merge finished at $TIMESTAMP ===" >> $LOG_FILE
+          echo "" >> $LOG_FILE
 
-      - name: Commit and force push merged file
+          # Batasi log maksimal 100 baris
+          if [ $(wc -l < "$LOG_FILE") -gt 100 ]; then
+            tail -n 100 "$LOG_FILE" > "$TEMP_LOG"
+            mv "$TEMP_LOG" "$LOG_FILE"
+          fi
+
+          echo "success=$SUCCESS_COUNT" >> $GITHUB_OUTPUT
+          echo "fail=$FAIL_COUNT" >> $GITHUB_OUTPUT
+          echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
+
+      - name: Commit and safely push merged & log files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add merged.m3u
-          git commit -m "Auto merge playlists from URL [$(date -u +"%Y-%m-%dT%H:%M:%SZ")]" || echo "No changes to commit"
-
           git fetch origin main
+          git checkout main
           git reset --hard origin/main
-          git add merged.m3u
-          git commit -m "Force update merged playlist [$(date -u +"%Y-%m-%dT%H:%M:%SZ")]" || true
-          git push origin HEAD:main --force
+          git clean -fdx
+
+          git add merged.m3u merge_log.txt
+          git commit -m "Auto merge playlists [$(date -u +"%Y-%m-%dT%H:%M:%SZ")]" || echo "No changes to commit"
+          git push https://github.com/${{ github.repository }} HEAD:main --force
+
+      - name: Send Telegram notification
+        if: always()
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SUCCESS: ${{ steps.merge.outputs.success }}
+          FAIL: ${{ steps.merge.outputs.fail }}
+          TIME: ${{ steps.merge.outputs.timestamp }}
+        run: |
+          STATUS="✅ Merge completed at $TIME UTC%0A🟢 Success: $SUCCESS%0A🔴 Failed: $FAIL%0A🔗 View: https://raw.githubusercontent.com/${{ github.repository }}/main/merged.m3u"
+          if [ "$FAIL" -gt 0 ]; then
+            STATUS="⚠️ Merge completed with errors at $TIME UTC%0A🟢 Success: $SUCCESS%0A🔴 Failed: $FAIL%0A🔗 View: https://raw.githubusercontent.com/${{ github.repository }}/main/merged.m3u"
+          fi
+          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+               -d "chat_id=${CHAT_ID}&text=${STATUS}"

@@ -3,7 +3,7 @@ name: Merge IPTV Playlists from URLs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # Jalankan tiap 1 jam
+    - cron: "*/30 * * * *" # Jalankan tiap 30 menit
 
 permissions:
   contents: write

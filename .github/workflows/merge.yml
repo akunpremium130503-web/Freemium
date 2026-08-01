@@ -3,7 +3,7 @@ name: Merge IPTV Playlists from URLs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/17 * * * *" # Jalankan tiap 30 menit
+    - cron: '*/17 * * * *' # jalan tiap 1 jam sekali (UTC)
 
 permissions:
   contents: write
@@ -11,45 +11,33 @@ permissions:
 jobs:
   merge:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Download and merge playlists
         run: |
           echo "#EXTM3U" > merged.m3u
-
           for url in \
             "https://gitlab.com/ridjals739/ppv-playlist/-/raw/main/myplaylist.m3u" \
             "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"
           do
-            echo "🔹 Merging $url ..."
-            if curl -sf "$url" | tail -n +2 >> merged.m3u; then
-              echo "# ✅ Successfully merged $url" >> merged.m3u
-            else
-              echo "# ❌ Failed to load $url" >> merged.m3u
-            fi
+            echo "Merging $url"
+            curl -sfL "$url" | tail -n +2 >> merged.m3u || echo "# Failed to load $url" >> merged.m3u
           done
 
-          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          UUID=$(cat /proc/sys/kernel/random/uuid)
-          echo "" >> merged.m3u
-          echo "# Auto-updated at $TIMESTAMP (ID: $UUID)" >> merged.m3u
-          echo "✅ Merge complete at $TIMESTAMP"
+          echo "# Merge updated on $(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> merged.m3u
 
-      - name: Commit and push merged file safely
+      - name: Commit and force push merged file
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git fetch origin main
-          git checkout main
-          git pull origin main --rebase || true
-
           git add merged.m3u
-          git commit -m "Auto merge playlists from URL [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]" || echo "No changes to commit"
+          git commit -m "Auto merge playlists from URL [$(date -u +"%Y-%m-%dT%H:%M:%SZ")]" || echo "No changes to commit"
 
-          git push origin main || (git pull --rebase origin main && git push origin main)
+          git fetch origin main
+          git reset --hard origin/main
+          git add merged.m3u
+          git commit -m "Force update merged playlist [$(date -u +"%Y-%m-%dT%H:%M:%SZ")]" || true
+          git push origin HEAD:main --force

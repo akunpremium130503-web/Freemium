@@ -4867,28 +4867,43 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:17:24 AM 08-08-2026
+#last update time: 1:32:27 PM 08-08-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20Seattle%20Mariners.jpg" group-title="LIVE", Tampa Bay Rays vs Seattle Mariners - MLB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adelaide%20University%20SC%20vs%20Adelaide%20Vipers.jpg" group-title="LIVE", Adelaide University SC vs Adelaide Vipers - AUS-S State League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1786249045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3eaf8b2e918b04bd0edbfa17f3758897
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a76c3d19d49414102643e10/chunks.m3u8?is_vip=false&token=1786259857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb716e738a3e0f5fee1be171f0dda7b2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Tigers%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Detroit Tigers vs San Francisco Giants - MLB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Consadole%20Sapporo%20vs%20Tokushima%20Vortis.jpg" group-title="LIVE", Hokkaido Consadole Sapporo vs Tokushima Vortis - J2 League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55849/720p/chunks.m3u8?is_vip=false&token=1786249047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-952bf306a96b9254cb700667885104d7
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed55d/chunks.m3u8?is_vip=false&token=1786260749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7289185985ddafb5a89c669104070d1c
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20vs%20Juarez%20FC.jpg" group-title="LIVE", Vancouver Whitecaps vs Juarez FC - Leagues Cup [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Port%20Adelaide%20vs%20Sydney%20Swans.jpg" group-title="LIVE", Port Adelaide vs Sydney Swans - AFL Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78741/chunks.m3u8?is_vip=false&token=1786249048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-822983233f5914e430086c2869cf1136
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786260751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e465cbfabc56b82958c2f8fadae3b569
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20vs%20Juarez%20FC.jpg" group-title="LIVE", Vancouver Whitecaps vs Juarez FC - Leagues Cup [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yenisey%20Krasnoyarsk%20Women%20vs%20Krylya%20Sovetov%20Samara%20Women.jpg" group-title="LIVE", Yenisey Krasnoyarsk Women vs Krylya Sovetov Samara Women - Major League Soccer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78741-hd/chunks.m3u8?is_vip=false&token=1786249050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d227d320ae0a44b0aab4c91a3d7cdf7a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a565694d06bfc5094e14314/chunks.m3u8?is_vip=false&token=1786260753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1cd170550e691405bc191512a577045
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Essendon%20vs%20Geelong%20Cats.jpg" group-title="LIVE", Essendon vs Geelong Cats - AFL Premiership
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1786260755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-813ca306aa1dbb34e95867c80be2db01
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hawke's%20Bay%20vs%20Tasman.jpg" group-title="LIVE", Hawke's Bay vs Tasman - NPC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1786260756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-41750f02a857d2045144ad9f36641690
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Setagaya%20SfidWomen%20vs%20Yokohama%20FC%20Seagulls%20Women.jpg" group-title="LIVE", Setagaya SfidWomen vs Yokohama FC Seagulls Women - JPN Nadeshiko League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52114/chunks.m3u8?is_vip=false&token=1786260758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-08e4d92f7e95f83ebf0044f436409aa8
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-08T04:32:23Z (ID: 07b32c39-b8ab-49fa-a2a5-36774a5e0f2c)
+# Auto-updated at 2026-08-08T07:35:43Z (ID: 2d034879-78a7-4b2a-9565-88ab0c620c33)

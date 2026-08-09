@@ -4867,78 +4867,78 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:47:29 AM 09-08-2026
+#last update time: 12:17:29 PM 09-08-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="LIVE", Rogers Cup - Rogers Cup
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canberra%20Olympic%20Women%20vs%20Tuggeranong%20Utd%20Women.jpg" group-title="LIVE", Canberra Olympic Women vs Tuggeranong Utd Women - AUS ACT Women's League 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786333650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d33e3cfb5d3b18094495e8d361c4a52
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a76084c15d865a011446e2b/chunks.m3u8?is_vip=false&token=1786342652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7932a93c0c084b5756167d9fc76e88d1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Dodgers%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Los Angeles Dodgers vs Arizona Diamondbacks - MLB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wollongong%20Wolves%20vs%20Sydney%20United.jpg" group-title="LIVE", Wollongong Wolves vs Sydney United - New South Wales NPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1786333652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4fbdd6d29708ac4e593e2aa5f40b3f53
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78797/chunks.m3u8?is_vip=false&token=1786342653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-442f77ac0884474527463bb89be961a6
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monterey%20Bay%20vs%20New%20Mexico%20United.jpg" group-title="LIVE", Monterey Bay vs New Mexico United - USL Championship
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlestown%20City%20Blues%20vs%20Maitland.jpg" group-title="LIVE", Charlestown City Blues vs Maitland - Northern NSW NPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78793/chunks.m3u8?is_vip=false&token=1786333653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-78b4fefa7e82c1823add85d5ec50054f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78799/chunks.m3u8?is_vip=false&token=1786342655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4d386c906b2c78ed7992a8ada394614a
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Orange%20County%20SC%20vs%20Tampa%20Bay%20Rowdies.jpg" group-title="LIVE", Orange County SC vs Tampa Bay Rowdies - USL Championship
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canberra%20Juventus%20vs%20Canberra%20White%20Eagles.jpg" group-title="LIVE", Canberra Juventus vs Canberra White Eagles - Capital Territory NPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78794/chunks.m3u8?is_vip=false&token=1786333655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e9053e05a4f29d51728139114b93b8b3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78798/chunks.m3u8?is_vip=false&token=1786342656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8eb42e45f2aa0d78a57d64ec72534762
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Salt%20Lake%20vs%20Atlante%20FC.jpg" group-title="LIVE", Real Salt Lake vs Atlante FC - Leagues Cup [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manawat%C5%AB%20vs%20Southland.jpg" group-title="LIVE", Manawatū vs Southland - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6fa8dfa24edae8ff082676/chunks.m3u8?is_vip=false&token=1786333656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8119db2959aa84adbb079fbf64cce092
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1786342659-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7aee88431e502a1c6b243cb8cedc1cc
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Salt%20Lake%20vs%20Atlante%20FC.jpg" group-title="LIVE", Real Salt Lake vs Atlante FC - Leagues Cup [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Victory%20FC%20Youth(W)%20vs%20Spring%20Hills%20FC%20Women.jpg" group-title="LIVE", Melbourne Victory FC Youth(W) vs Spring Hills FC Women - AUS VIC Women's Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6fa8dfa24edae8ff082676-hd/chunks.m3u8?is_vip=false&token=1786333657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-073896fb47738b6493c96653d0765a50
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed564/chunks.m3u8?is_vip=false&token=1786342661-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-937ba08660e88b3c08307dd058dcf206
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monterrey%20W%20vs%20Atlante%20W.jpg" group-title="LIVE", Monterrey W vs Atlante W - Liga MX Femenil
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Olympic%20FC%20Women%20vs%20Adamstown%20Rosebud%20Women.jpg" group-title="LIVE", Newcastle Olympic FC Women vs Adamstown Rosebud Women - AUS NSW Women's Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a681451bb875b4ddf149bea/chunks.m3u8?is_vip=false&token=1786333658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dacc8cfa44a451b3d6c2a3ae70619288
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74b6d308a0398647665612/chunks.m3u8?is_vip=false&token=1786342663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-84bd8e1ebc3f48e67cf85f637e4877f1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Otago%20vs%20Canterbury.jpg" group-title="LIVE", Otago vs Canterbury - NPC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Collingwood%20Magpies%20vs%20West%20Coast%20Eagles.jpg" group-title="LIVE", Collingwood Magpies vs West Coast Eagles - AFL Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1786333659-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4ece00badc0ec7fa4ece3dc9c606802
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786342664-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11df3fd91013ff92d209a736ba204f28
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cashmere%20Technical%20vs%20Coastal%20Spirit.jpg" group-title="LIVE", Cashmere Technical vs Coastal Spirit - NZ South Premier League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sunshine%20Coast%20Wanderers%20FC%20vs%20Broadbeach%20United.jpg" group-title="LIVE", Sunshine Coast Wanderers FC vs Broadbeach United - AUS QLD League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6fa8dfa24edae8ff082677/chunks.m3u8?is_vip=false&token=1786333661-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f34488ddef8dbdb5616aa0de908a266
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7879a/chunks.m3u8?is_vip=false&token=1786342665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e488c04945c2aa82b6cf022ee1a84def
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Broadmeadow%20Magic%20vs%20Kahibah.jpg" group-title="LIVE", Broadmeadow Magic vs Kahibah - Northern NSW NPL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Logan%20Lightning%20vs%20St%20George%20Willawong%20FC.jpg" group-title="LIVE", Logan Lightning vs St George Willawong FC - AUS QLD League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b78795/chunks.m3u8?is_vip=false&token=1786333663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff1858c01903e3b9971ed7e9e42ebf69
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7879b/chunks.m3u8?is_vip=false&token=1786342666-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e036a3011042d843af888957fc132831
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Suns%20vs%20GWS%20GIANTS.jpg" group-title="LIVE", Gold Coast Suns vs GWS GIANTS - AFL Premiership
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ipswich%20City%20vs%20Capalaba%20Bulldogs.jpg" group-title="LIVE", Ipswich City vs Capalaba Bulldogs - AUS QLD League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786333664-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-07069dd1310ebc9a8a31eed80aefb01f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7879c/chunks.m3u8?is_vip=false&token=1786342668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba8281a5571e89ff9c0a8ec0d92180c0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20FC%20Reserves%20vs%20East%20Coast%20Bays.jpg" group-title="LIVE", Auckland FC Reserves vs East Coast Bays - NZ Northern Premier League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caboolture%20FC%20vs%20Holland%20Park%20Hawks%20FC.jpg" group-title="LIVE", Caboolture FC vs Holland Park Hawks FC - AUS QLD League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6fa8dfa24edae8ff08267d/chunks.m3u8?is_vip=false&token=1786333666-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-20bb69acab72cb17359805177f8b0435
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7879d/chunks.m3u8?is_vip=false&token=1786342669-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd197503a3c0d0677a0a97ba2743e415
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toluca%20vs%20Los%20Angeles%20FC.jpg" group-title="LIVE", Toluca vs Los Angeles FC - Leagues Cup [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Strikers%20vs%20Redlands%20United%20FC.jpg" group-title="LIVE", Brisbane Strikers vs Redlands United FC - AUS QLD League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f92157b14e876daa210c/chunks.m3u8?is_vip=false&token=1786333667-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b91925126c7db61987121494b1e63f8d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7879e/chunks.m3u8?is_vip=false&token=1786342671-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6a7c5f578419f9fd487b5b6a84a4d7e0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toluca%20vs%20Los%20Angeles%20FC.jpg" group-title="LIVE", Toluca vs Los Angeles FC - Leagues Cup [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Star%20vs%20Robina%20City.jpg" group-title="LIVE", North Star vs Robina City - AUS QLD League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f92157b14e876daa210c-hd/chunks.m3u8?is_vip=false&token=1786333668-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8b9b2390cb26de15f3ed6e72f1992ed1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a76a2e8eaed40cd99a72078/chunks.m3u8?is_vip=false&token=1786342672-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a503c40280322a427e57b0b3d5adcb2
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-09T04:04:49Z (ID: a5ee3cc4-84c8-41ee-86a7-bbea02569cd1)
+# Auto-updated at 2026-08-09T06:31:53Z (ID: 0eb6d177-9084-4774-a607-9af4c869015e)

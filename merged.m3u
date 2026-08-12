@@ -4883,123 +4883,73 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 1:47:23 AM 13-08-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Manchester%20United.jpg" group-title="LIVE", Leeds vs Manchester United - Friendlies Clubs [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1786650444-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d473b3252cf5ed39130fc3a06d92dc0f
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Manchester%20United.jpg" group-title="LIVE", Leeds vs Manchester United - Friendlies Clubs [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5ced80a5363061591a2579-hd/chunks.m3u8?is_vip=false&token=1786650445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1d09744a8876deb1769b0005ec1cde72
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Manchester%20United.jpg" group-title="LIVE", Leeds vs Manchester United - Friendlies Clubs [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5ced80a5363061591a2579/chunks.m3u8?is_vip=false&token=1786650446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-20259dd59b95e012a244e22688372c72
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20vs%20Como.jpg" group-title="LIVE", Arsenal vs Como - Friendlies Clubs [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5ced80a5363061591a2578/chunks.m3u8?is_vip=false&token=1786650448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-60230ada909426e5442b1c1f07f8ad33
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20vs%20Como.jpg" group-title="LIVE", Arsenal vs Como - Friendlies Clubs [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1786650448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-38ebb07847b4e034895b66347f8e33fd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20vs%20Aston%20Villa.jpg" group-title="LIVE", Paris Saint Germain vs Aston Villa - UEFA Super Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1786650450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ab7f768c357becf9c8825820bfe4fbf1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20vs%20Aston%20Villa.jpg" group-title="LIVE", Paris Saint Germain vs Aston Villa - UEFA Super Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1786650451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c0ec0b6b55bd8f376f2a71a7cd042ba4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20vs%20Aston%20Villa.jpg" group-title="LIVE", Paris Saint Germain vs Aston Villa - UEFA Super Cup [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5ced80a5363061591a257c-hd/chunks.m3u8?is_vip=false&token=1786650451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-540d8d395adae27489364391373120b4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20vs%20Aston%20Villa.jpg" group-title="LIVE", Paris Saint Germain vs Aston Villa - UEFA Super Cup [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5ced80a5363061591a257c/chunks.m3u8?is_vip=false&token=1786650452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca6a21db20ede8001bf98f4325046ce8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Coruna%20vs%20Real%20Madrid.jpg" group-title="LIVE", Deportivo La Coruna vs Real Madrid - Friendlies Clubs [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1786650454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf3619933631bded5f372784ea703d3e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Coruna%20vs%20Real%20Madrid.jpg" group-title="LIVE", Deportivo La Coruna vs Real Madrid - Friendlies Clubs [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5ced80a5363061591a257d-hd/chunks.m3u8?is_vip=false&token=1786650454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-24e566e5d4b5c325ed76ad5d44d3270d
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Coruna%20vs%20Real%20Madrid.jpg" group-title="LIVE", Deportivo La Coruna vs Real Madrid - Friendlies Clubs [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5ced80a5363061591a257d/chunks.m3u8?is_vip=false&token=1786650455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd7580c2c35b84aa10a1ba687c1772cb
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Cincinnati.jpg" group-title="LIVE", ATP Cincinnati - ATP Cincinnati
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786650457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8aed555f7abf3ca8cb976b130b8ca442
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20MI%20London.jpg" group-title="LIVE", Phoenix vs MI London - The Hundred
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786650458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-530b9ed619bcf58f49e3e8eb8aa9c9e5
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baltimore%20Orioles%20vs%20Minnesota%20Twins.jpg" group-title="LIVE", Baltimore Orioles vs Minnesota Twins - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1786650460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8407b119208e92a2b10464a3c3ff64e3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Madureira%20vs%20Portuguesa%20RJ.jpg" group-title="LIVE", Madureira vs Portuguesa RJ - Copa Rio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d5a511da39967244c67e9/chunks.m3u8?is_vip=false&token=1786650462-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-119b777022aa16a30bbf820809929cca
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20St.%20Louis%20Cardinals.jpg" group-title="LIVE", Philadelphia Phillies vs St. Louis Cardinals - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1786650464-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6158d4d0fdc95e6272d8b634418c8928
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Napoli%20vs%20Aris%20Thessalonikis.jpg" group-title="LIVE", Napoli vs Aris Thessalonikis - Friendlies Clubs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7775be94a200e33839eb3a/chunks.m3u8?is_vip=false&token=1786650465-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-885519f315ac0d1f3dd4042247221257
+#last update time: 4:17:30 AM 13-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20Oakland%20Athletics.jpg" group-title="LIVE", Tampa Bay Rays vs Oakland Athletics - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1786650466-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e0426a12d83b4114c67ae7b9cbc338ad
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1786659450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-713b59235e10fd1cc04b89fec1b7bb8b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Colorado Rockies vs Arizona Diamondbacks - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786650468-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-43333a36c9ba9ba302c15919d8f97982
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786659452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-801776be1a3acc156217a0e738e23bcb
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Houston Astros vs San Francisco Giants - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1786650470-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-774d6ec1fdbdd8c2bfa5569843ec7f21
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1786659453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af9aaae12425efc62b867a6dd1427f53
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="LIVE", Rogers Cup - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786650473-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22e852f175db4667695ddf5101f378ec
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786659454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb66cd435317e5699420a5152f152c53
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20San%20Diego%20Padres.jpg" group-title="Baseball", Milwaukee Brewers vs San Diego Padres - MLB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20San%20Diego%20Padres.jpg" group-title="LIVE", Milwaukee Brewers vs San Diego Padres - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1786650477-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-078c79aac9b984694a8f7f921b8f7169
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1786659456-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf7b0f36a6c67ca7fce9b997798d75e9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palmeiras%20vs%20Cerro%20Porteno.jpg" group-title="LIVE", Palmeiras vs Cerro Porteno - CONMEBOL Libertadores
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60b7d215d865a011305557/chunks.m3u8?is_vip=false&token=1786659457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c6bc2bcfde8584a061f84a224cc4a1c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Platense%20vs%20Coquimbo%20Unido.jpg" group-title="LIVE", Platense vs Coquimbo Unido - CONMEBOL Libertadores
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60b7d215d865a011305556/chunks.m3u8?is_vip=false&token=1786659459-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-de515b211ee65e13b48b7c691c47f488
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tigre%20vs%20Atletico%20Torque.jpg" group-title="LIVE", Tigre vs Atletico Torque - CONMEBOL Sudamericana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a698fe17c78df962c1c8456/chunks.m3u8?is_vip=false&token=1786659460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-912e8e03a109281ff171caa1e4d0be2e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Bragantino%20vs%20Atletico-MG.jpg" group-title="LIVE", RB Bragantino vs Atletico-MG - CONMEBOL Sudamericana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6ad35505c2e23f12577627/chunks.m3u8?is_vip=false&token=1786659461-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac07af14146517e3ede2e45df044028a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Tucuman%20vs%20Independiente.jpg" group-title="LIVE", Atletico Tucuman vs Independiente - Copa Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c34848692467520f3/chunks.m3u8?is_vip=false&token=1786659462-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf589d0bd5ec950aab25f4f9da90ce75
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Pirates%20vs%20Miami%20Marlins.jpg" group-title="Baseball", Pittsburgh Pirates vs Miami Marlins - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1786659465-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4c40b642d9de3f24f6b4dba5de96611a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cleveland%20Guardians%20vs%20Detroit%20Tigers.jpg" group-title="Baseball", Cleveland Guardians vs Detroit Tigers - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1786659465-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-839c1242dec41dab232ff37b237798ea
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Washington%20Nationals.jpg" group-title="Baseball", Chicago Cubs vs Washington Nationals - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1786659465-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b058be269324192405b4b7e220632c2f
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-12T19:53:44Z (ID: ac785214-6417-4f94-ab81-cc7277336b14)
+# Auto-updated at 2026-08-12T22:23:38Z (ID: 58ad0e65-434f-410c-9242-15aa9d748e1f)

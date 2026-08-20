@@ -4817,23 +4817,43 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 8:17:25 PM 20-08-2026
+#last update time: 9:47:27 PM 20-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787321847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e03069a215759f25cec1d8b581cc5a29
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jurong%20W%20vs%20Hang%20Yuan%20W.jpg" group-title="LIVE", Jurong W vs Hang Yuan W - AFC Women's Champions League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69f24f62561902dcfb1bce-backup/chunks.m3u8?is_vip=false&token=1787321849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bcac79cbc7beb6805cbfdbc16c78d877
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787327248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6a29aa7c5c2c615a3abdc43c16b731f5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Renewi%20Tour%2C%20Stage%202.jpg" group-title="LIVE", Renewi Tour, Stage 2 - UCI World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787321851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4ad50311064096b0dcc1caeea9165aa1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787327253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62a74d4175ea74439f153ba3b1fb2bbc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kairat%20Almaty%20vs%20Anderlecht.jpg" group-title="LIVE", Kairat Almaty vs Anderlecht - UEFA Europa League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71951f62561902dc6df1d0-hd/chunks.m3u8?is_vip=false&token=1787327255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e44b72f3a10ac9a456d4a7afa3ffb18
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kairat%20Almaty%20vs%20Anderlecht.jpg" group-title="LIVE", Kairat Almaty vs Anderlecht - UEFA Europa League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71951f62561902dc6df1d0-backup/chunks.m3u8?is_vip=false&token=1787327256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa0ab0cc6798e202f3cac2e8cccbdee7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kairat%20Almaty%20vs%20Anderlecht.jpg" group-title="LIVE", Kairat Almaty vs Anderlecht - UEFA Europa League [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71951f62561902dc6df1d0/chunks.m3u8?is_vip=false&token=1787327257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5454675675dee44a1c0f19f31478ece
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Minsk%20vs%20Torpedo%20Zhodino.jpg" group-title="LIVE", Dinamo Minsk vs Torpedo Zhodino - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66f049-backup/chunks.m3u8?is_vip=false&token=1787327261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4bb7deb2bc69efaf9ab22e6fd6e11f73
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mjallby%20AIF%20vs%20Red%20Bull%20Salzburg.jpg" group-title="LIVE", Mjallby AIF vs Red Bull Salzburg - UEFA Europa League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71951f62561902dc6df1d1-hd/chunks.m3u8?is_vip=false&token=1787327263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-50d8f59dc881e7657b877dd6c05d2e75
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-20T14:20:29Z (ID: ff38f403-b3dc-4e4f-8f05-767994508470)
+# Auto-updated at 2026-08-20T16:02:15Z (ID: cb054136-df94-4e70-b3bc-0c829a8097b8)

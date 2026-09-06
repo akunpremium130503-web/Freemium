@@ -4881,93 +4881,38 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:32:25 AM 06-09-2026
+#last update time: 2:47:21 PM 06-09-2026
 
-#EXTINF:-1 tvg-id="63042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#EXTINF:-1 tvg-id="58219" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Melbourne%20vs%20Heidelberg%20United.jpg" group-title="LIVE", South Melbourne vs Heidelberg United - Victoria NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788755547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-febabbaafc986e57fd1266e484b0d0ff
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9484f20f997065ce34bb49-backup/chunks.m3u8?is_vip=false&token=1788770842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c45ea6f5a36c5b760b56f4d64d8afa59
 
-#EXTINF:-1 tvg-id="54655" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Broncos%20vs%20St.%20George%20Illawarra%20Dragons.jpg" group-title="LIVE", Brisbane Broncos vs St. George Illawarra Dragons - NRL Women's Premiership
+#EXTINF:-1 tvg-id="58219" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Melbourne%20vs%20Heidelberg%20United.jpg" group-title="LIVE", South Melbourne vs Heidelberg United - Victoria NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788755548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a52d32c3c6e74db2aaea271ea612c5e8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9484f20f997065ce34bb49/chunks.m3u8?is_vip=false&token=1788770843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3d040ae06c378a66bb2861a4c6d922d
 
-#EXTINF:-1 tvg-id="46197" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20vs%20St.%20Louis%20City.jpg" group-title="LIVE", Vancouver Whitecaps vs St. Louis City - Major League Soccer [Server 1]
+#EXTINF:-1 tvg-id="61571" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%2C%20Italy.jpg" group-title="LIVE", Monza, Italy - FIA Formula 2 Championship Feature Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e199-hd/chunks.m3u8?is_vip=false&token=1788755549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad46d994e2d89ad6f6ff7da6855037b0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788770844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9e555bafa6469ca2c43e0a50e42738a2
 
-#EXTINF:-1 tvg-id="46197" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20vs%20St.%20Louis%20City.jpg" group-title="LIVE", Vancouver Whitecaps vs St. Louis City - Major League Soccer [Server 2]
+#EXTINF:-1 tvg-id="54657" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Parramatta%20Eels%20vs%20Canberra%20Raiders.jpg" group-title="LIVE", Parramatta Eels vs Canberra Raiders - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e199-backup/chunks.m3u8?is_vip=false&token=1788755550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8d9d04fe4107b8809ea0c0f8efc565f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788770845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b8c422cf4dbfedd08407b937ee79d5a5
 
-#EXTINF:-1 tvg-id="46197" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20vs%20St.%20Louis%20City.jpg" group-title="LIVE", Vancouver Whitecaps vs St. Louis City - Major League Soccer [Server 3]
+#EXTINF:-1 tvg-id="54270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malut%20United%20vs%20Garudayaksa.jpg" group-title="LIVE", Malut United vs Garudayaksa - Liga 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e199/chunks.m3u8?is_vip=false&token=1788755551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a520b02cee097205a7cc2a8b31f9737
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f1887eeaf4f1e6ae820f3-backup/chunks.m3u8?is_vip=false&token=1788770846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a78653224568311d675a054c1089d78e
 
-#EXTINF:-1 tvg-id="46198" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portland%20Timbers%20vs%20Minnesota%20United%20FC.jpg" group-title="LIVE", Portland Timbers vs Minnesota United FC - Major League Soccer [Server 1]
+#EXTINF:-1 tvg-id="54270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malut%20United%20vs%20Garudayaksa.jpg" group-title="LIVE", Malut United vs Garudayaksa - Liga 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e19a-hd/chunks.m3u8?is_vip=false&token=1788755552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-48d28ce1058fafe17046eb3acd01137f
-
-#EXTINF:-1 tvg-id="46198" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portland%20Timbers%20vs%20Minnesota%20United%20FC.jpg" group-title="LIVE", Portland Timbers vs Minnesota United FC - Major League Soccer [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e19a-backup/chunks.m3u8?is_vip=false&token=1788755552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e6f6edc3b07ae44ce2921d6198c6c5db
-
-#EXTINF:-1 tvg-id="46198" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portland%20Timbers%20vs%20Minnesota%20United%20FC.jpg" group-title="LIVE", Portland Timbers vs Minnesota United FC - Major League Soccer [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e19a/chunks.m3u8?is_vip=false&token=1788755553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9ed922200997fb6b9b7a69d13f037b96
-
-#EXTINF:-1 tvg-id="54259" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Vegas%20Lights%20vs%20New%20Mexico%20United.jpg" group-title="LIVE", Las Vegas Lights vs New Mexico United - USL Championship [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e19b-backup/chunks.m3u8?is_vip=false&token=1788755554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d87257f57f9978a20bd1b7298c9d6d43
-
-#EXTINF:-1 tvg-id="54259" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Vegas%20Lights%20vs%20New%20Mexico%20United.jpg" group-title="LIVE", Las Vegas Lights vs New Mexico United - USL Championship [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e19b/chunks.m3u8?is_vip=false&token=1788755555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-635f8ad5f457f39cc3ba10858642602f
-
-#EXTINF:-1 tvg-id="54262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlas%20vs%20Atlante%20FC.jpg" group-title="LIVE", Atlas vs Atlante FC - Liga MX [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e19c-backup/chunks.m3u8?is_vip=false&token=1788755557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eaae89202024d1a282d75cbb4760dcca
-
-#EXTINF:-1 tvg-id="54262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlas%20vs%20Atlante%20FC.jpg" group-title="LIVE", Atlas vs Atlante FC - Liga MX [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e19c/chunks.m3u8?is_vip=false&token=1788755558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23bf5d7a99d0ce6ec36e627a7b161707
-
-#EXTINF:-1 tvg-id="54656" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Titans%20vs%20Wests%20Tigers.jpg" group-title="LIVE", Gold Coast Titans vs Wests Tigers - NRL Women's Premiership
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788755559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ccf977e92a558d35f1877474399520b8
-
-#EXTINF:-1 tvg-id="62299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20United%20vs%20Manly%20United.jpg" group-title="LIVE", Sydney United vs Manly United - New South Wales NPL [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9af2619a962fec68c865da-backup/chunks.m3u8?is_vip=false&token=1788755562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-030f2b775e6605648a5242c930f37837
-
-#EXTINF:-1 tvg-id="62299" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20United%20vs%20Manly%20United.jpg" group-title="LIVE", Sydney United vs Manly United - New South Wales NPL [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9af2619a962fec68c865da/chunks.m3u8?is_vip=false&token=1788755563-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4cffdfef072194d77df2b60fff6f5a36
-
-#EXTINF:-1 tvg-id="54641" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Harbour%20vs%20Northland.jpg" group-title="Rugby", North Harbour vs Northland - NPC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788755569-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d67b20c5052a7c4a5f7e57e40069dddb
-
-#EXTINF:-1 tvg-id="54653" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Collingwood%20Magpies%20vs%20Carlton%20Blues.jpg" group-title="American Football", Collingwood Magpies vs Carlton Blues - AFL Womens Premiership
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788755569-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2ba325adba53f54a43faabbe4471772
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f1887eeaf4f1e6ae820f3/chunks.m3u8?is_vip=false&token=1788770847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-703e069239788f654eac6b054757c714
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-09-06T04:43:25Z (ID: 45ca93f0-4318-43ef-9570-2e5dc2b70143)
+# Auto-updated at 2026-09-06T08:58:09Z (ID: 230f6011-1799-4555-be57-94aa8212746d)

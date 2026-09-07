@@ -4881,28 +4881,13 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:47:20 AM 07-09-2026
+#last update time: 10:02:26 AM 07-09-2026
 
-#EXTINF:-1 tvg-id="64042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#EXTINF:-1 tvg-id="54617" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="LIVE", Washington Nationals vs Los Angeles Dodgers - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788824841-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b2bf284aa96c4da47a6d79b81342cd8
-
-#EXTINF:-1 tvg-id="54616" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20Chicago%20White%20Sox.jpg" group-title="LIVE", Minnesota Twins vs Chicago White Sox - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1788824842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2ae9e02fc37ed0da4b1c978b471605d6
-
-#EXTINF:-1 tvg-id="54654" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Winnipeg%20Blue%20Bombers%20vs%20Saskatchewan%20Roughriders.jpg" group-title="LIVE", Winnipeg Blue Bombers vs Saskatchewan Roughriders - CFL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/720p/chunks.m3u8?is_vip=false&token=1788824843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb87b328b6799fd341767b3465de67bb
-
-#EXTINF:-1 tvg-id="55753" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tridents%20vs%20Kings.jpg" group-title="LIVE", Tridents vs Kings - CPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788824844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3628cac4d47a38340fc20a30124b6fe4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/262817/720p/chunks.m3u8?is_vip=false&token=1788840147-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f3a7ef7341d2fe48d54b89ff54e22264
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-09-06T23:57:17Z (ID: 5e8eda79-eb81-4fea-9f40-d89d3973c2e7)
+# Auto-updated at 2026-09-07T04:12:06Z (ID: d3261666-5481-4ca3-89ef-75ddf62a1e83)

@@ -4881,8 +4881,33 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:17:21 PM 07-09-2026
+#last update time: 9:02:28 PM 07-09-2026
+
+#EXTINF:-1 tvg-id="54634" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hungary%20vs%20Korea.jpg" group-title="LIVE", Hungary vs Korea - FIBA Women's Basketball World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1788879749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d704c7750623c403a92a8bdd7f3fbcf
+
+#EXTINF:-1 tvg-id="54635" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nigeria%20vs%20France.jpg" group-title="LIVE", Nigeria vs France - FIBA Women's Basketball World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138845/720p/chunks.m3u8?is_vip=false&token=1788879751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c24751799e22c050f2dd7cfcec6f850f
+
+#EXTINF:-1 tvg-id="55107" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Isloch%20Minsk%20R.%20vs%20Arsenal.jpg" group-title="LIVE", FC Isloch Minsk R. vs Arsenal - Premier League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ee-backup/chunks.m3u8?is_vip=false&token=1788879752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8df1464858c8da96ebf088d8296458a8
+
+#EXTINF:-1 tvg-id="55107" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Isloch%20Minsk%20R.%20vs%20Arsenal.jpg" group-title="LIVE", FC Isloch Minsk R. vs Arsenal - Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ee/chunks.m3u8?is_vip=false&token=1788879753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9770d1acfa84b44b13668ea051ebda11
+
+#EXTINF:-1 tvg-id="65033" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788879762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc673c5dda69fdb55fe00683b05cb1ba
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-09-07T09:23:45Z (ID: 6dcba9a1-a11b-4ee2-9bda-e3e12ed1e216)
+# Auto-updated at 2026-09-07T15:10:42Z (ID: dcf386e6-c7c4-4ac2-991c-178d9b4a8bc1)

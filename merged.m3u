@@ -4881,33 +4881,23 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:17:23 AM 08-09-2026
+#last update time: 11:02:27 AM 08-09-2026
 
 #EXTINF:-1 tvg-id="65033" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788913044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5850fb359ce7b2e3f101059ac4f51f31
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788930148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-51fda579d08036eead14786474652d86
 
-#EXTINF:-1 tvg-id="55138" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vitoria%20vs%20Gremio.jpg" group-title="LIVE", Vitoria vs Gremio - Serie A [Server 1]
+#EXTINF:-1 tvg-id="55193" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="LIVE", Cincinnati Reds vs Los Angeles Dodgers - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850e-backup/chunks.m3u8?is_vip=false&token=1788913045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-59418618b3d136d2700899211ed9ab3e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/262811/720p/chunks.m3u8?is_vip=false&token=1788930150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f9bd7d4fc811c249c24497d844f3ad3f
 
-#EXTINF:-1 tvg-id="55138" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vitoria%20vs%20Gremio.jpg" group-title="LIVE", Vitoria vs Gremio - Serie A [Server 2]
+#EXTINF:-1 tvg-id="55194" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Athletics.jpg" group-title="LIVE", Toronto Blue Jays vs Athletics - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b6850e/chunks.m3u8?is_vip=false&token=1788913047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cf8e36ec3aa5f8aa176811f28191535
-
-#EXTINF:-1 tvg-id="55192" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", St. Louis Cardinals vs San Francisco Giants - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1788913049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-120fa18cdede810d4661e85225ecca0b
-
-#EXTINF:-1 tvg-id="54489" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Santa%20Fe%20vs%20Instituto%20Cordoba.jpg" group-title="LIVE", Union Santa Fe vs Instituto Cordoba - Liga Profesional Argentina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68500/chunks.m3u8?is_vip=false&token=1788913051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9fa2d2080908713d9c0c00f0dfecf52
+https://livecdn-tc-iptv.rumsport10.live/live_abr/262812/720p/chunks.m3u8?is_vip=false&token=1788930151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-66d0e00e8819527fc5177a5a398735be
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-09-08T00:26:47Z (ID: 13f2f51f-79ea-421c-9754-db3fe08fac64)
+# Auto-updated at 2026-09-08T05:06:47Z (ID: d05330cb-df24-41c6-bb5b-77e76b551783)

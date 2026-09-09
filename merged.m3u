@@ -692,11 +692,9 @@ https://legacy-global-cdn.visionplus.id/live/eds/XingKongTV/sa_dash/XingKongTV.m
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.firstmedia.com/
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://cdn.stmify.com/antik/stream/DISCOVERY/playlist_cbcs.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
@@ -722,22 +720,30 @@ https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/921x5DS/animal-planet.png" tvg-name="Animal Planet" group-title="Knowledge & Documentary",Animal Planet SL
+https://cdn.stmify.com/antik/stream/ANIMAL_PLANET/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q9cCztP/animal-planet-HD.png" group-title="Knowledge & Documentary",Animal Planet HD
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
+#KODIPROP:inputstream.adaptive.license_key=5720d56a19cf667667eb715967deb4f4:5819a139b33e44108816f547f8ca5094
 #EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic HD" tvg-logo="http://zamlb.co.uk:80/images/HieJhq0rAwydn5VXrn07ZORvPq8MWfMmjFQtqC_R8uO2_D0Xcrj0A2UihJS8tzwnDs4785ScuDZMxxcCPday6Fj0gw7SXFlOlpDm9TRhi8N6kCbMOWatVEHVS1qZGGHiezN2zhF7T9eyonsNi2m0FQ.png" group-title="Knowledge & Documentary",National Geographic HD
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy57EXUuhoW1XMMjoWqc7oC0g.png" group-title="Knowledge & Documentary",Nat Geo Wild
-https://live.dinesh29.com.np/stream/jiotvplus/natgeowild/master.m3u8
+https://cdn.stmify.com/teliatv/stream/NATIONAL_GEOGRAPHIC/National_Geographic_H.mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy57EXUuhoW1XMMjoWqc7oC0g.png" group-title="Knowledge & Documentary",Nat Geo
+https://cdn.stmify.com/antik/stream/NGC/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/RPpN3KG/natgeo-wild-home-tv.png" tvg-name="Nat Geo Wild" group-title="Knowledge & Documentary",Nat Geo Wild HD
-https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+https://cdn.stmify.com/antik/stream/NGW/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ibb.co/RPpN3KG/natgeo-wild-home-tv.png" tvg-name="Nat Geo Wild" group-title="Knowledge & Documentary",Nat Geo Wild HD
+https://cdn.stmify.com/zapitv/stream/NATIONAL_GEOGRAPHIC_WILD/nat_geo_wild_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png",Besmart
@@ -921,15 +927,20 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids",Disney Channel
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+https://cdn.stmify.com/antik/stream/DISNEY/playlist_cbcs.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).mx" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Kids", Disney Jr HD
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://cdn.stmify.com/antik/stream/DISNEY_JR/playlist_cbcs.mpd
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).mx" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Kids", Disney Jr FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
-https://zap-live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=44875398e74743caabb7278f2b63433f:a1e2ad6d895feb2a609683324dd0b93c
+https://cdn.stmify.com/zapitv/stream/DISNEYJR/DISNEYJR.mpd
 #EXTINF:-1 tvg-id="disneyxd" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-xd.png" group-title="Kids",Disney XD
 http://zamlb.co.uk:80/live/khuram/khuram123/21412.ts
 
@@ -1048,7 +1059,10 @@ https://jmp2.uk/sam-CABC230001363.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon DE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdbfe565d7afdede6154dfcf366e500:fd9a7a53157516493c1332938b22b6d8
+https://cdn.stmify.com/joyn/stream/NICKELODEON_HD/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon HD
@@ -1511,11 +1525,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b}
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO
 #http://playtv.my.id/play/freemium_hbo.m3u8
 #https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+#https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2891,28 +2906,40 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="Sports ID",Eurosport 1 HD
+#https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+https://cdn.stmify.com/antik/stream/EUROSPORT_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="Sports ID",Eurosport 1 HDD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oLnfX5LmshjdtqpAos2ZbQ", "kid":"AaZl1IeqTByJjJ6w/xoh3w" } ], "type":"temporary" }
-#https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SWmRo5ARFXG4xzdbHwIzCg","kid":"cp2z_dPcTGHu_x5UXhybHQ"},{"kty":"oct","k":"j_VdarpMuy3jwfULpCZ3rw","kid":"0GUe-JaIWT6JcpD5vJuoCA"},{"kty":"oct","k":"TvlDCtw2WR_V33JCVQu3Ug","kid":"XuF0oB9rUhKLTz1Klmid0g"},{"kty":"oct","k":"oSymHBX_YFhnnW6WtSizBQ","kid":"rG5w_Im9VuWwhADw4qewMA"}],"type":"temporary"}
+https://ac-003.live.p7s1video.net/8b37d0f0/t_003/joyn-at-event01-hd/cenc-default.mpd
 #EXTINF:-1 group-title="Sports ID" tvg-logo="https://i.pinimg.com/736x/f6/07/30/f60730ad7a3f1ae8e6f06356f7e4e917.jpg",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
+#https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+https://cdn.stmify.com/antik/stream/EUROSPORT_2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="Sports ID",Eurosport 1 HDD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7
+https://cdn.stmify.com/zapitv/stream/EUROSPORT_1/eurosport_1_hd.mpd
 #EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="Sports ID", Eurosport 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nk4AWBwUMvQXXkoujgzVfg", "kid":"ZXcHu9HiQOCL1pad8n/vfA" } ], "type":"temporary" }
-#https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
+https://cdn.stmify.com/zapitv/stream/EUROSPORT_2/eurosport_2_hd.mpd
+
+#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="Sports ID", Eurosport 2 HDD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d-1tvqIWKdzKkvKVbGtmKA","kid":"r7seoDUE9L4PmCpls_Y8JQ"},{"kty":"oct","k":"UWmGBiWQPGD55B0oVfPxjQ","kid":"ZfhRVHiAXvaTrTPTou_MUA"},{"kty":"oct","k":"lbqZCHcNmXsbOd1alZ0pLg","kid":"RuMFLi4CU7GR_ZsaAr-U6Q"},{"kty":"oct","k":"r7nNsoTcSz7Em6HhqMg04A","kid":"1yRQudkeVcmlX-NhmWpzcA"}],"type":"temporary"}
+https://ac-003.live.p7s1video.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd
 
 #EXTINF:-1 tvg-id="UseeSports.id" tvg-name="UseeSport 1" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-Allplay-Sport_2025_10_24_15_49_25.jpg" group-title="Sports ID",UseeSport 1
 https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
@@ -3119,13 +3146,13 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/5r1gJwz/TNT3.png" group-title="Sports", TNT Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
 #EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ZgQ5jVD/TNT4.png" group-title="Sports", TNT Sport 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 #http://zamlb.co.uk:80/live/khuram/khuram123/84560.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
@@ -3267,8 +3294,7 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1
 #EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="http://zamlb.co.uk:80/images/0MiIm5awJBS5Tm7uRVO4_5hOpzcFnqvnB0Gg8d_92qSIb0O6cGQJ1xU3vRDkudUuuKhwY4C8u4uebO302FbjdLIu4QCCVaRFSzqcqMBYKAiU6BZ4WjXpTMlHfPPlW59FFNw8quGSguYpWLW402ud7Q.png" group-title="Sports",FUBO SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-https://otte.cache.aiv-cdn.net//pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3345,9 +3371,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ1dgWS0ULkw7OYtctMm6ij_dxo2SnvrlU81tD9zs0gLnDlUgB21nuTUd&s=10" ,Fancode 2 HD
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ1dgWS0ULkw7OYtctMm6ij_dxo2SnvrlU81tD9zs0gLnDlUgB21nuTUd&s=10" ,Fancode 3 HD
@@ -4861,8 +4887,58 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
-
-
+📺 Universo west
+#EXTINF:-1 group-title="Peacock",Universo west
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
+https://cdn.stmify.com/peacock/stream/UNIVERSO_WEST/master.mpd
+#EXTINF:-1 group-title="Peacock",Universo west
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://cdn.stmify.com/peacock/stream/TELEMUNDO/master.mpd
+#EXTINF:-1 group-title="Peacock",Universo west
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://cdn.stmify.com/peacock/stream/PREMIER_LEAGUE_TV/master.mpd
+#EXTINF:-1 tvg-id="NBCSportsNow" tvg-name="NBCSportsBoston" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="Peacock" , NBC SPORTS Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_NOW/master.mpd
+#EXTINF:-1 tvg-id="NBCSportsBayArea" tvg-name="NBCSportsBoston" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="Peacock" , NBC SPORTS Bay Area
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_BAY_AREA/master.mpd
+#EXTINF:-1 tvg-id="NBCSportsBayArea" tvg-name="NBCSportsBoston" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="Peacock" , NBC SPORTS Bay Boston
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f73521c174532e59711ccb4462ac770:f06c7f95319c0386b4fc5fa3d58ab504
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_BOSTON/master.mpd
+#EXTINF:-1 tvg-id="NBCSportsBayArea" tvg-name="NBCSportsBoston" tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_7938226791344603117_darknow/LOGO_NON_PADDED/600/208?proposition=NBCUOTT&territory=US" group-title="Peacock" , NBC SPORTS Bay Philadelphia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e07a6dfad8333a388f2a931a743621b9:638ff7ec62eeee611927f1d6d5baa146
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_PHILADELPHIA/master.mpd
+#EXTINF:-1 tvg-id="NFL" tvg-name="NFL" tvg-logo="https://www.pngmart.com/files/23/Nfl-Logo-PNG-Transparent.png" group-title="Peacock", NFL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+https://cdn.stmify.com/peacock/stream/NFL_CHANNEL/master.mpd
+📺 Mbc max
+#EXTINF:-1 group-title="Shahid",Mbc max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://cdn.stmify.com/shahid/stream/MBC_MAX/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/EyrUl_ojXxxo5NrH_7UGPeN3QxeFhb-FMxNzy_xA4E3kUz986SJiZXE_AiaBsj41wegZS4Bh=s240-c-k-c0x00ffffff-no-rj" group-title="LIVE SEKARANG",Volleyball World
 https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 <!DOCTYPE html>
@@ -4881,18 +4957,128 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:47:20 AM 09-09-2026
+#last update time: 5:17:24 PM 09-09-2026
 
-#EXTINF:-1 tvg-id="65087" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
+#EXTINF:-1 tvg-id="56262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Biwako%20Shiga%20vs%20Tokyo%20Verdy.jpg" group-title="LIVE", Biwako Shiga vs Tokyo Verdy - J-League Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789018347-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eed0d98b0d1177eaf780a10278059368
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2a-backup/chunks.m3u8?is_vip=false&token=1789039046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0fa3608d014bb5d3e6ffc7f7408e08c8
 
-#EXTINF:-1 tvg-id="60865" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vanuatu%20United%20vs%20Central%20Coast%20Mariners.jpg" group-title="LIVE", Vanuatu United vs Central Coast Mariners - Friendlies Clubs
+#EXTINF:-1 tvg-id="56262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Biwako%20Shiga%20vs%20Tokyo%20Verdy.jpg" group-title="LIVE", Biwako Shiga vs Tokyo Verdy - J-League Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a99cad55c0020a997bbbdab-backup/chunks.m3u8?is_vip=false&token=1789018349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9d71a936c12d5a87035a1535dc16518a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2a/chunks.m3u8?is_vip=false&token=1789039047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-138564ab99f7d265475c1f774b1aad75
+
+#EXTINF:-1 tvg-id="55662" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20vs%20Melbourne%20Victory.jpg" group-title="LIVE", Sydney vs Melbourne Victory - Australia Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8e5dcb7cb66c539a978285-backup/chunks.m3u8?is_vip=false&token=1789039048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a1ac4d8ad66eee413679736bdb79e14
+
+#EXTINF:-1 tvg-id="55662" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20vs%20Melbourne%20Victory.jpg" group-title="LIVE", Sydney vs Melbourne Victory - Australia Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8e5dcb7cb66c539a978285/chunks.m3u8?is_vip=false&token=1789039049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1050e3fd1f7fd50deb7476f5f547ffa1
+
+#EXTINF:-1 tvg-id="56263" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukushima%20United%20vs%20Vegalta%20Sendai.jpg" group-title="LIVE", Fukushima United vs Vegalta Sendai - J-League Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f30-backup/chunks.m3u8?is_vip=false&token=1789039051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dc771d0be3d09fdaa80d90f4b2897149
+
+#EXTINF:-1 tvg-id="56263" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukushima%20United%20vs%20Vegalta%20Sendai.jpg" group-title="LIVE", Fukushima United vs Vegalta Sendai - J-League Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f30/chunks.m3u8?is_vip=false&token=1789039052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f7a945b9b3990f362762a6aba2bc572b
+
+#EXTINF:-1 tvg-id="56264" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kamatamare%20Sanuki%20vs%20JEF%20United%20Chiba.jpg" group-title="LIVE", Kamatamare Sanuki vs JEF United Chiba - J-League Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2f/chunks.m3u8?is_vip=false&token=1789039053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f974bc7693b5a2971ea9dfb533d9d5b9
+
+#EXTINF:-1 tvg-id="56265" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kochi%20United%20vs%20V-varen%20Nagasaki.jpg" group-title="LIVE", Kochi United vs V-varen Nagasaki - J-League Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2e-backup/chunks.m3u8?is_vip=false&token=1789039055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-37c05710181dd813274d67a19a2c1237
+
+#EXTINF:-1 tvg-id="56265" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kochi%20United%20vs%20V-varen%20Nagasaki.jpg" group-title="LIVE", Kochi United vs V-varen Nagasaki - J-League Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2e/chunks.m3u8?is_vip=false&token=1789039056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d75fabefd4d61738286430739648b9fa
+
+#EXTINF:-1 tvg-id="56266" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Parceiro%20Nagano%20vs%20Mito%20Hollyhock.jpg" group-title="LIVE", Parceiro Nagano vs Mito Hollyhock - J-League Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2d-backup/chunks.m3u8?is_vip=false&token=1789039057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3f3f756eceb45abbb77465ae04a838a2
+
+#EXTINF:-1 tvg-id="56266" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Parceiro%20Nagano%20vs%20Mito%20Hollyhock.jpg" group-title="LIVE", Parceiro Nagano vs Mito Hollyhock - J-League Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2d/chunks.m3u8?is_vip=false&token=1789039058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d43b3fd4c15fe33a1f3ab5b1d216eb18
+
+#EXTINF:-1 tvg-id="56267" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tochigi%20SC%20vs%20Montedio%20Yamagata.jpg" group-title="LIVE", Tochigi SC vs Montedio Yamagata - J-League Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2c-backup/chunks.m3u8?is_vip=false&token=1789039060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5ca0399c79d6d257bc98ce2806dd67c
+
+#EXTINF:-1 tvg-id="56267" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tochigi%20SC%20vs%20Montedio%20Yamagata.jpg" group-title="LIVE", Tochigi SC vs Montedio Yamagata - J-League Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2c/chunks.m3u8?is_vip=false&token=1789039061-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55492682600f05287956e75d420e6440
+
+#EXTINF:-1 tvg-id="56268" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Matsumoto%20Yamaga%20vs%20Shonan%20Bellmare.jpg" group-title="LIVE", Matsumoto Yamaga vs Shonan Bellmare - J-League Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2b-backup/chunks.m3u8?is_vip=false&token=1789039062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e220a530fd34e7161c110c25692bc94e
+
+#EXTINF:-1 tvg-id="56268" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Matsumoto%20Yamaga%20vs%20Shonan%20Bellmare.jpg" group-title="LIVE", Matsumoto Yamaga vs Shonan Bellmare - J-League Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f2b/chunks.m3u8?is_vip=false&token=1789039063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-512ad8a0dd43303a133ac52907a90367
+
+#EXTINF:-1 tvg-id="65134" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789039064-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-83ee5a6b3c7964b75e273951d5a6cdc2
+
+#EXTINF:-1 tvg-id="56269" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20FC%20Anyang.jpg" group-title="LIVE", Daejeon Citizen vs FC Anyang - K League 1 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f32-backup/chunks.m3u8?is_vip=false&token=1789039065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81bc6697f03229f194357416190c126a
+
+#EXTINF:-1 tvg-id="56269" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20FC%20Anyang.jpg" group-title="LIVE", Daejeon Citizen vs FC Anyang - K League 1 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f32/chunks.m3u8?is_vip=false&token=1789039066-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7124cf98f8ba63838b9bd5fa2af049ee
+
+#EXTINF:-1 tvg-id="56270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Jeonbuk%20Motors.jpg" group-title="LIVE", Gangwon FC vs Jeonbuk Motors - K League 1 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f33-backup/chunks.m3u8?is_vip=false&token=1789039068-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-065298aadfce0823d12b0e93cc6e94d0
+
+#EXTINF:-1 tvg-id="56270" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20vs%20Jeonbuk%20Motors.jpg" group-title="LIVE", Gangwon FC vs Jeonbuk Motors - K League 1 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f33/chunks.m3u8?is_vip=false&token=1789039069-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9052e10fc08320384c934447967539f7
+
+#EXTINF:-1 tvg-id="56271" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gwangju%20FC%20vs%20Jeju%20United%20FC.jpg" group-title="LIVE", Gwangju FC vs Jeju United FC - K League 1 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f35-backup/chunks.m3u8?is_vip=false&token=1789039070-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-85c18a18e3d481f6ab092623ea53118f
+
+#EXTINF:-1 tvg-id="56271" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gwangju%20FC%20vs%20Jeju%20United%20FC.jpg" group-title="LIVE", Gwangju FC vs Jeju United FC - K League 1 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f35/chunks.m3u8?is_vip=false&token=1789039071-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ac79738515427e587671b3dc8fe2a64a
+
+#EXTINF:-1 tvg-id="56272" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pohang%20Steelers%20vs%20Gimcheon%20Sangmu%20FC.jpg" group-title="LIVE", Pohang Steelers vs Gimcheon Sangmu FC - K League 1 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f34-backup/chunks.m3u8?is_vip=false&token=1789039072-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-313167aa1864cd5e2ea236a038d949dc
+
+#EXTINF:-1 tvg-id="56272" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pohang%20Steelers%20vs%20Gimcheon%20Sangmu%20FC.jpg" group-title="LIVE", Pohang Steelers vs Gimcheon Sangmu FC - K League 1 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8086086c5a23a8c2be1f34/chunks.m3u8?is_vip=false&token=1789039073-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9ab4fe795ed4bfe6305f9d49fdc4d90f
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-09-09T06:00:58Z (ID: b7055ba5-ba73-4228-85f6-6a623eb8bb54)
+# Auto-updated at 2026-09-09T11:27:49Z (ID: 4378ec86-02e6-4258-8779-565191a82b78)

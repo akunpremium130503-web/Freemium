@@ -4962,13 +4962,28 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:32:23 PM 10-09-2026
+#last update time: 5:47:20 PM 10-09-2026
 
-#EXTINF:-1 tvg-id="65133" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
+#EXTINF:-1 tvg-id="61004" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Sydney%20Roosters.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Sydney Roosters - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789108344-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe79f7fb0e6ce5c4b6125738a14c7225
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789127241-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-69360e41419fa43ab22dd3cb1f50a844
+
+#EXTINF:-1 tvg-id="55726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789127243-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9146d4e66df556f6165d1e31c1f0f081
+
+#EXTINF:-1 tvg-id="60262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbahce%20U19%20vs%20Roma%20U19.jpg" group-title="LIVE", Fenerbahce U19 vs Roma U19 - UEFA Youth League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adb-backup/chunks.m3u8?is_vip=false&token=1789127245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c53c1990122b529a09dcee01473aa67c
+
+#EXTINF:-1 tvg-id="60262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbahce%20U19%20vs%20Roma%20U19.jpg" group-title="LIVE", Fenerbahce U19 vs Roma U19 - UEFA Youth League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adb/chunks.m3u8?is_vip=false&token=1789127246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1aeb1ee8aa96fdcf35b70a440104b3f0
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-09-10T06:35:54Z (ID: 05a79c46-e28d-4d20-97f3-0bb2a47456fa)
+# Auto-updated at 2026-09-10T11:52:32Z (ID: a44bffc9-4341-4448-9b47-b135f90fe2a4)

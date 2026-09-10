@@ -4962,28 +4962,38 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:47:20 PM 10-09-2026
-
-#EXTINF:-1 tvg-id="61004" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Sydney%20Roosters.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Sydney Roosters - NRL Women's Premiership
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789127241-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-69360e41419fa43ab22dd3cb1f50a844
+#last update time: 9:47:24 PM 10-09-2026
 
 #EXTINF:-1 tvg-id="55726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789127243-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9146d4e66df556f6165d1e31c1f0f081
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789141645-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4a7a30b31d95f6178ac0f7d0533ce11c
 
-#EXTINF:-1 tvg-id="60262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbahce%20U19%20vs%20Roma%20U19.jpg" group-title="LIVE", Fenerbahce U19 vs Roma U19 - UEFA Youth League [Server 1]
+#EXTINF:-1 tvg-id="55781" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2018.jpg" group-title="LIVE", Vuelta a España, Stage 18 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adb-backup/chunks.m3u8?is_vip=false&token=1789127245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c53c1990122b529a09dcee01473aa67c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789141647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7508c3f99e89226b8651ba1a9b51ee98
 
-#EXTINF:-1 tvg-id="60262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbahce%20U19%20vs%20Roma%20U19.jpg" group-title="LIVE", Fenerbahce U19 vs Roma U19 - UEFA Youth League [Server 2]
+#EXTINF:-1 tvg-id="60260" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20U19%20vs%20Bod%C3%B8%20%20Glimt%20U19.jpg" group-title="LIVE", Bayern München U19 vs Bodø / Glimt U19 - UEFA Youth League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adb/chunks.m3u8?is_vip=false&token=1789127246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1aeb1ee8aa96fdcf35b70a440104b3f0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adc-backup/chunks.m3u8?is_vip=false&token=1789141649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-91120bcea408cc177cc2d81b157bc8e8
+
+#EXTINF:-1 tvg-id="60260" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20U19%20vs%20Bod%C3%B8%20%20Glimt%20U19.jpg" group-title="LIVE", Bayern München U19 vs Bodø / Glimt U19 - UEFA Youth League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adc/chunks.m3u8?is_vip=false&token=1789141650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d5c958a1832147693936d9d7344fdf18
+
+#EXTINF:-1 tvg-id="55773" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20Atlanta%20Braves.jpg" group-title="Baseball", Tampa Bay Rays vs Atlanta Braves - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55848/720p/chunks.m3u8?is_vip=false&token=1789141655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-04218391fc9397bc1e0c13dd8a6c5efb
+
+#EXTINF:-1 tvg-id="65177" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/English%20Open%20Terzo%20turno.jpg" group-title="Billiards", English Open: Terzo turno - World Snooker Tour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789141658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0e3df61a34427bf19adaec3ea04b9356
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-09-10T11:52:32Z (ID: a44bffc9-4341-4448-9b47-b135f90fe2a4)
+# Auto-updated at 2026-09-10T15:57:37Z (ID: df0946da-5ad4-4c2e-beef-420348e2f93d)
